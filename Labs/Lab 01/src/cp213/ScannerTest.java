@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Class to demonstrate the use of Scanner with a keyboard and File objects.
  *
- * @author Ranjot Sandhu 169020301
+ * @author Name
  * @version 2023-09-16
  */
 public class ScannerTest {
